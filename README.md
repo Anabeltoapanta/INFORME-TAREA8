@@ -7,7 +7,9 @@
 AUTORES
 
 MEJIA CESAR
+  
 MONTALVO MARTIN
+  
 TOAPANTA ANABEL
 
 NRC
@@ -20,7 +22,7 @@ Ing. Darwin Omar Alulema Flores
 
 </div>
 
-# 1.OBJETIVOS
+**1.OBJETIVOS**
 
 - Objetivo General
 
@@ -30,20 +32,17 @@ Ing. Darwin Omar Alulema Flores
 
 
 
-# 2. MARCO TEORICO
+**2. MARCO TEORICO**
 
 
-
-# 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 
-# 4. VIDEO
+**4. VIDEO**
+
+**5. CONCLUSIONES**
 
 
-# 5. CONCLUSIONES
-
-
-# 6. BIBLIOGRAFÍAS
+**6. BIBLIOGRAFÍAS**
 
 Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
