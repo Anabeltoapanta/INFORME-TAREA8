@@ -127,9 +127,9 @@ un valor de 50 volts cuando t = 5 us. Determine Vm y dibuje la forma de onda
 
 27.Calcule w en radianes por segundo para cada uno de los siguientes casos: 
 
-	T =100 ns 
-	f =30 Hz
-	periodo 20 ms
+T =100 ns 
+f =30 Hz
+periodo 20 ms
 
 ![image](https://user-images.githubusercontent.com/85134094/131595939-8847da52-2987-4c17-90ce-14c42ff85fa9.png).
 
@@ -207,11 +207,11 @@ a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 
 57. Determine los valores de la raíz cuadrática media para 
 
-	i =3 +√2(4) sen(wt+44)mA 
+a) i =3 +√2(4) sen(wt+44)mA 
 
 ![image](https://user-images.githubusercontent.com/85134094/131596144-b9dc9996-349c-4952-af4f-a67c1bfd05b2.png)
 
-	 Voltaje v de la figura 15-92 con e 25 sen qt V
+b) Voltaje v de la figura 15-92 con e 25 sen qt V
 
  ![image](https://user-images.githubusercontent.com/85134094/131596158-32bb9d4d-2005-428e-b8e7-c71d4ed29bcd.png)
  
@@ -237,6 +237,7 @@ a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 ![image](https://user-images.githubusercontent.com/85134094/131680649-8ca4b09d-56eb-480e-bc5f-95da3a1225ba.png)
 
 3. Grafique cada uno de los siguientes valores en el plano complejo:
+
 a) 4+6j
 
  ![image](https://user-images.githubusercontent.com/85134094/131628179-2c1cbfc8-172b-4a41-adeb-a6ee42081f85.png)
