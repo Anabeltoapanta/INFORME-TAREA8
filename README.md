@@ -139,6 +139,83 @@ a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 ![image](https://user-images.githubusercontent.com/85134094/131596193-e74086c1-d3c4-4f1e-b058-249c5eeba109.png)
 
 
+**CAPITULO 16**
+
+3. Grafique cada uno de los siguientes valores en el plano complejo:
+a) 4+6j
+
+ ![image](https://user-images.githubusercontent.com/85134094/131628179-2c1cbfc8-172b-4a41-adeb-a6ee42081f85.png)
+
+b) 4j
+
+![image](https://user-images.githubusercontent.com/85134094/131628204-6652eb50-c4b4-4b32-8f80-5b0fe1fc8fe3.png)
+
+c) 6<90°
+
+![image](https://user-images.githubusercontent.com/85134094/131628254-1211f075-645f-4248-8ea4-700dc718d047.png)
+
+d) 10 <135
+
+![image](https://user-images.githubusercontent.com/85134094/131628285-aa7776c4-1cee-4705-9544-8c9897be90dc.png)
+ 
+9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas
+de la figura 16-48.
+
+![image](https://user-images.githubusercontent.com/85134094/131628339-4a71cbbd-820f-4621-a8ef-bf7f933d45ba.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131628354-124a1bea-2dac-4814-a9f9-42f0ca26cf3b.png)
+
+15. Para la figura 16-18, i1 = 7 sen wt mA, i2 =4 sen (wt - 90) mA e i3 = 6 sen (wt- 90) mA.
+ 
+	Determine los fasores I1, I2, I3 e IT
+
+ ![image](https://user-images.githubusercontent.com/85134094/131628401-0aee6529-88a0-442a-95dd-aadacacaf769.png)
+
+	Determine la ecuación para iT en el dominio del tiempo
+	
+ ![image](https://user-images.githubusercontent.com/85134094/131628428-9a928fb2-5c4b-458d-b9a0-94f232443b5b.png)
+
+21. Para la figura 16-53, Vm = 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
+
+ ![image](https://user-images.githubusercontent.com/85134094/131628456-8557dde6-534c-4d57-aecf-f131363d3279.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131628483-b6c1da25-66f5-47c9-9e1b-f1a4221026c6.png)
+![image](https://user-images.githubusercontent.com/85134094/131628493-3c3dc9b3-fc57-4a95-b48e-bcf0f8a6dd27.png)
+![image](https://user-images.githubusercontent.com/85134094/131628509-5d4c9bc7-b934-4114-baa3-5747df781056.png)
+![image](https://user-images.githubusercontent.com/85134094/131628528-926a2466-063a-4be7-98da-7e830ff209af.png)
+
+27. ¿Cuál es la reactancia de un capacitor de 5 uF a.
+a. 60 Hz
+ 
+ ![image](https://user-images.githubusercontent.com/85134094/131628588-e857ef83-30cf-4a22-b06e-a78ff0e9da7d.png)
+
+       B. 1000 Hz
+ 
+![image](https://user-images.githubusercontent.com/85134094/131628614-bd08a00f-100b-4066-ba15-dbccc04f3c73.png)
+
+	500 rads
+
+![image](https://user-images.githubusercontent.com/85134094/131628664-8f9be9fb-b967-47e4-ab8f-7d4b7a5da3d2.png)
+
+33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es
+0.5 A∠<0
+          a. Determine cada voltaje en forma fasorial.
+b. Exprese cada voltaje en forma del dominio del tiempo.
+	 
+ ![image](https://user-images.githubusercontent.com/85134094/131628708-fcaaf9a1-dc92-43f5-8582-7d97cd44efc6.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131628748-6b81fe30-a1b0-4cab-b2e7-c38ab4552d50.png)
+![image](https://user-images.githubusercontent.com/85134094/131628762-d8e8b0d3-e272-4d46-8a09-bebd06f3370c.png)
+![image](https://user-images.githubusercontent.com/85134094/131628785-30baf3ed-e0c4-47a9-a3a6-065522a79ef1.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/85134094/131628810-d69224ad-083c-4a3a-b9a0-061656bd476c.png)
+![image](https://user-images.githubusercontent.com/85134094/131628821-46695207-eddc-459b-bc3b-7cb99978560e.png)
+![image](https://user-images.githubusercontent.com/85134094/131628839-da35b2c6-0a7d-43c3-8823-13d40c982e37.png)
+
+
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
