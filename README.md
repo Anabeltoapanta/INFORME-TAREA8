@@ -289,15 +289,15 @@ b) determine la ecuación para iT en el dominio del tiempo
 
 15. Para la figura 16-18, i1 = 7 sen wt mA, i2 =4 sen (wt - 90) mA e i3 = 6 sen (wt- 90) mA.
  
-	Determine los fasores I1, I2, I3 e IT
+a) Determine los fasores I1, I2, I3 e IT
 
  ![image](https://user-images.githubusercontent.com/85134094/131628401-0aee6529-88a0-442a-95dd-aadacacaf769.png)
 
-	Determine la ecuación para iT en el dominio del tiempo
+b) Determine la ecuación para iT en el dominio del tiempo
 	
- ![image](https://user-images.githubusercontent.com/85134094/131628428-9a928fb2-5c4b-458d-b9a0-94f232443b5b.png
+ ![image](https://user-images.githubusercontent.com/85134094/131628428-9a928fb2-5c4b-458d-b9a0-94f232443b5b.png)
  
- 17.Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
+17.Para la figura 16-52 , R= 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
  
  ![image](https://user-images.githubusercontent.com/85134094/131681191-be614106-dc41-4706-8996-b6873c02b3e5.png)
 
