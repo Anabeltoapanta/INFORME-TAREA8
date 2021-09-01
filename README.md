@@ -167,11 +167,11 @@ de la figura 16-48.
 
 15. Para la figura 16-18, i1 = 7 sen wt mA, i2 =4 sen (wt - 90) mA e i3 = 6 sen (wt- 90) mA.
  
-	Determine los fasores I1, I2, I3 e IT
+a) Determine los fasores I1, I2, I3 e IT
 
  ![image](https://user-images.githubusercontent.com/85134094/131628401-0aee6529-88a0-442a-95dd-aadacacaf769.png)
 
-	Determine la ecuación para iT en el dominio del tiempo
+b) Determine la ecuación para iT en el dominio del tiempo
 	
  ![image](https://user-images.githubusercontent.com/85134094/131628428-9a928fb2-5c4b-458d-b9a0-94f232443b5b.png)
 
@@ -185,15 +185,16 @@ de la figura 16-48.
 ![image](https://user-images.githubusercontent.com/85134094/131628528-926a2466-063a-4be7-98da-7e830ff209af.png)
 
 27. ¿Cuál es la reactancia de un capacitor de 5 uF a.
-a. 60 Hz
+
+A. 60 Hz
  
  ![image](https://user-images.githubusercontent.com/85134094/131628588-e857ef83-30cf-4a22-b06e-a78ff0e9da7d.png)
 
-       B. 1000 Hz
+B. 1000 Hz
  
 ![image](https://user-images.githubusercontent.com/85134094/131628614-bd08a00f-100b-4066-ba15-dbccc04f3c73.png)
 
-	500 rads
+C. 500 rads
 
 ![image](https://user-images.githubusercontent.com/85134094/131628664-8f9be9fb-b967-47e4-ab8f-7d4b7a5da3d2.png)
 
