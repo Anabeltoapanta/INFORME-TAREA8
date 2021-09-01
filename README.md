@@ -26,15 +26,21 @@ Ing. Darwin Omar Alulema Flores
 
 - Objetivo General
 
-
+* Identificar las capacidades de la corriente alterna y la función de los números complejos en la búsqueda de la resolución de circuitos conectados a una fuente de corriente de dirección variable.
 
 - Objetivos específicos
 
+* Analizar la resolución de circuitos con voltajes y corrientes en forma polar y rectangular con el uso de números complejos.
 
+* Calcular los circuitos propuestos en las unidades a estudiar.
+
+* Establecer soluciones y ondas resultantes en circuitos con corriente alterna.
 
 **2. MARCO TEORICO**
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/85134094/131685055-7681cce4-8e56-4cc7-82ab-5bcd860c0c0e.png)
+
+![image](https://user-images.githubusercontent.com/85134094/131685078-9e274db1-aab4-4df6-b2c8-abe602fce70f.png)
 
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -366,7 +372,7 @@ B)
 
 **5. CONCLUSIONES**
 
-
+* Existen varios tipos de ondas, cuadradas, de tipo sierra, y senososidales pero cada una de ellas se debe calcular con respecto al tiempo formando asi una figura geometrica o en el caso de una onda sinosoidal  con la ayuda de una integral teniendo en cuenta que el resultado será un valor aproximado al real.
 
 **6. BIBLIOGRAFÍAS**
 
