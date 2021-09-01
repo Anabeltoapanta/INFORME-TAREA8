@@ -371,6 +371,8 @@ B)
 
 **4. VIDEO**
 
+https://youtu.be/G9v9NEpK9ME
+
 **5. CONCLUSIONES**
 
 * Existen varios tipos de ondas, cuadradas, de tipo sierra, y senososidales pero cada una de ellas se debe calcular con respecto al tiempo formando asi una figura geometrica o en el caso de una onda sinosoidal  con la ayuda de una integral teniendo en cuenta que el resultado será un valor aproximado al real.
