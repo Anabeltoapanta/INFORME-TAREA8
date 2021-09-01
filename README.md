@@ -375,6 +375,7 @@ B)
 
 * Existen varios tipos de ondas, cuadradas, de tipo sierra, y senososidales pero cada una de ellas se debe calcular con respecto al tiempo formando asi una figura geometrica o en el caso de una onda sinosoidal  con la ayuda de una integral teniendo en cuenta que el resultado será un valor aproximado al real.
 * En conclusión se logro definir y calcular periodo , amplitud ,valores pico y valores pico pico ,  además de plasmar graficamente su comportamiento atravez de un tiempo dado que existen ondas en fase o desfase y estas a su vez estan adelantadas o retrasadas.
+* Ademas se expreso los fadores de voltaje y corriente por medio de numeros complejos de la misma manera resolver voltajes y corrientes en circuitos simples de ca mediante el concepto de impedancia.
 
 **6. BIBLIOGRAFÍAS**
 
