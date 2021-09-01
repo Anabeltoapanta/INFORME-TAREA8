@@ -36,6 +36,7 @@ Ing. Darwin Omar Alulema Flores
 
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
 3. a. ¿Qué significa valor instantáneo? 
 
 es el valor que toma la onda para un tiempo t. Este valor no es útil para cálculos y medidas eléctricas, ya que se utilizan los valores eficaces.
